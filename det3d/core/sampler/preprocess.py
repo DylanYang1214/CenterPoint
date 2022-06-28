@@ -15,7 +15,7 @@ from det3d.core.bbox.geometry import (
 )
 import copy
 
-
+## Test
 class BatchSampler:
     def __init__(
         self, sampled_list, name=None, epoch=None, shuffle=True, drop_reminder=False
